@@ -1,0 +1,2 @@
+E:\Harindran\addon\Inventory_Revalution\Inventory_Revalution\obj\Debug\Inventory_Revalution.csprojAssemblyReference.cache
+E:\Harindran\addon\Inventory_Revalution\Inventory_Revalution\obj\Debug\Inventory_Revalution.csproj.CoreCompileInputs.cache

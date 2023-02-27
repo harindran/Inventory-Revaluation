@@ -1,0 +1,8 @@
+E:\Harindran\addon\Inventory_Revalution\Inventory_Revalution\obj\x64\Debug\Inventory_Revalution.csproj.CoreCompileInputs.cache
+E:\Harindran\addon\Inventory_Revalution\Inventory_Revalution\bin\x64\Debug\Inventory_Revalution.exe.config
+E:\Harindran\addon\Inventory_Revalution\Inventory_Revalution\bin\x64\Debug\Inventory_Revalution.exe
+E:\Harindran\addon\Inventory_Revalution\Inventory_Revalution\bin\x64\Debug\Inventory_Revalution.pdb
+E:\Harindran\addon\Inventory_Revalution\Inventory_Revalution\bin\x64\Debug\SAPBusinessOneSDK.dll
+E:\Harindran\addon\Inventory_Revalution\Inventory_Revalution\obj\x64\Debug\Inventory_Revalution.csproj.CopyComplete
+E:\Harindran\addon\Inventory_Revalution\Inventory_Revalution\obj\x64\Debug\Inventory_Revalution.exe
+E:\Harindran\addon\Inventory_Revalution\Inventory_Revalution\obj\x64\Debug\Inventory_Revalution.pdb
