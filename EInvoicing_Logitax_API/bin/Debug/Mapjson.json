@@ -1,0 +1,186 @@
+[ 
+      {
+        "Unit Code": "BAG",
+        "Unit Description": "BAGS"
+      },
+      {
+        "Unit Code": "BAL",
+        "Unit Description": "BALE"
+      },
+      {
+        "Unit Code": "BDL",
+        "Unit Description": "BUNDLES"
+      },
+      {
+        "Unit Code": "BKL",
+        "Unit Description": "BUCKLES"
+      },
+      {
+        "Unit Code": "BOU",
+        "Unit Description": "BILLION OF UNITS"
+      },
+      {
+        "Unit Code": "BOX",
+        "Unit Description": "BOX"
+      },
+      {
+        "Unit Code": "BTL",
+        "Unit Description": "BOTTLES"
+      },
+      {
+        "Unit Code": "BUN",
+        "Unit Description": "BUNCHES"
+      },
+      {
+        "Unit Code": "CAN",
+        "Unit Description": "CANS"
+      },
+      {
+        "Unit Code": "CCM",
+        "Unit Description": "CUBIC CENTIMETERS"
+      },
+      {
+        "Unit Code": "CMS",
+        "Unit Description": "CENTIMETERS"
+      },
+      {
+        "Unit Code": "CBM",
+        "Unit Description": "CUBIC METERS"
+      },
+      {
+        "Unit Code": "CTN",
+        "Unit Description": "CARTONS"
+      },
+      {
+        "Unit Code": "DOZ",
+        "Unit Description": "DOZENS"
+      },
+      {
+        "Unit Code": "DRM",
+        "Unit Description": "DRUMS"
+      },
+      {
+        "Unit Code": "GGK",
+        "Unit Description": "GREAT GROSS"
+      },
+      {
+        "Unit Code": "GMS",
+        "Unit Description": "GRAMMES"
+      },
+      {
+        "Unit Code": "GRS",
+        "Unit Description": "GROSS"
+      },
+      {
+        "Unit Code": "GYD",
+        "Unit Description": "GROSS YARDS"
+      },
+      {
+        "Unit Code": "KGS",
+        "Unit Description": "KILOGRAMS"
+      },
+      {
+        "Unit Code": "KLR",
+        "Unit Description": "KILOLITRE"
+      },
+      {
+        "Unit Code": "KME",
+        "Unit Description": "KILOMETRE"
+      },
+      {
+        "Unit Code": "LTR",
+        "Unit Description": "LITRES"
+      },
+      {
+        "Unit Code": "MLS",
+        "Unit Description": "MILLI LITRES"
+      },
+      {
+        "Unit Code": "MLT",
+        "Unit Description": "MILILITRE"
+      },
+      {
+        "Unit Code": "MTR",
+        "Unit Description": "METERS"
+      },
+      {
+        "Unit Code": "MTS",
+        "Unit Description": "METRIC TON"
+      },
+      {
+        "Unit Code": "NOS",
+        "Unit Description": "NUMBERS"
+      },
+      {
+        "Unit Code": "OTH",
+        "Unit Description": "OTHERS"
+      },
+      {
+        "Unit Code": "PAC",
+        "Unit Description": "PACKS"
+      },
+      {
+        "Unit Code": "PCS",
+        "Unit Description": "PIECES"
+      },
+      {
+        "Unit Code": "PRS",
+        "Unit Description": "PAIRS"
+      },
+      {
+        "Unit Code": "QTL",
+        "Unit Description": "QUINTAL"
+      },
+      {
+        "Unit Code": "ROL",
+        "Unit Description": "ROLLS"
+      },
+      {
+        "Unit Code": "SET",
+        "Unit Description": "SETS"
+      },
+      {
+        "Unit Code": "SQF",
+        "Unit Description": "SQUARE FEET"
+      },
+      {
+        "Unit Code": "SQM",
+        "Unit Description": "SQUARE METERS"
+      },
+      {
+        "Unit Code": "SQY",
+        "Unit Description": "SQUARE YARDS"
+      },
+      {
+        "Unit Code": "TBS",
+        "Unit Description": "TABLETS"
+      },
+      {
+        "Unit Code": "TGM",
+        "Unit Description": "TEN GROSS"
+      },
+      {
+        "Unit Code": "THD",
+        "Unit Description": "THOUSANDS"
+      },
+      {
+        "Unit Code": "TON",
+        "Unit Description": "TONNES"
+      },
+      {
+        "Unit Code": "TUB",
+        "Unit Description": "TUBES"
+      },
+      {
+        "Unit Code": "UGS",
+        "Unit Description": "US GALLONS"
+      },
+      {
+        "Unit Code": "UNT",
+        "Unit Description": "UNITS"
+      },
+      {
+        "Unit Code": "YDS",
+        "Unit Description": "YARDS"
+      }
+    ]

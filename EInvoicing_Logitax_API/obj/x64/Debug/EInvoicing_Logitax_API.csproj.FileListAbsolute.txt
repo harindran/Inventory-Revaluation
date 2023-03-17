@@ -1,0 +1,95 @@
+E:\OneDrive - Altrocks Tech Private Limited\E Drive\E-Invoice\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\x64\Debug\EInvoicing_Logitax_API.csprojAssemblyReference.cache
+E:\OneDrive - Altrocks Tech Private Limited\E Drive\E-Invoice\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\x64\Debug\EInvoicing_Logitax_API.csproj.CoreCompileInputs.cache
+E:\OneDrive - Altrocks Tech Private Limited\E Drive\E-Invoice\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\x64\Debug\EInvoicing_Logitax_API.exe
+E:\OneDrive - Altrocks Tech Private Limited\E Drive\E-Invoice\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\x64\Debug\EInvoicing_Logitax_API.pdb
+E:\OneDrive - Altrocks Tech Private Limited\E Drive\E-Invoice\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\x64\Debug\Newtonsoft.Json.dll
+E:\OneDrive - Altrocks Tech Private Limited\E Drive\E-Invoice\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\x64\Debug\SAPBusinessOneSDK.dll
+E:\OneDrive - Altrocks Tech Private Limited\E Drive\E-Invoice\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\x64\Debug\EInvoicing_Logitax_API.csproj.CopyComplete
+E:\OneDrive - Altrocks Tech Private Limited\E Drive\E-Invoice\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\x64\Debug\EInvoicing_Logitax_API.exe
+E:\OneDrive - Altrocks Tech Private Limited\E Drive\E-Invoice\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\x64\Debug\EInvoicing_Logitax_API.pdb
+C:\MIPL\Chitra\Nov 08 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\x64\Debug\EInvoicing_Logitax_API.exe
+C:\MIPL\Chitra\Nov 08 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\x64\Debug\EInvoicing_Logitax_API.pdb
+C:\MIPL\Chitra\Nov 08 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\x64\Debug\SAPBusinessOneSDK.dll
+C:\MIPL\Chitra\Nov 08 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\x64\Debug\EInvoicing_Logitax_API.csprojAssemblyReference.cache
+C:\MIPL\Chitra\Nov 08 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\x64\Debug\EInvoicing_Logitax_API.csproj.CoreCompileInputs.cache
+C:\MIPL\Chitra\Nov 08 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\x64\Debug\EInvoicing_Logitax_API.csproj.CopyComplete
+C:\MIPL\Chitra\Nov 08 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\x64\Debug\EInvoicing_Logitax_API.exe
+C:\MIPL\Chitra\Nov 08 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\x64\Debug\EInvoicing_Logitax_API.pdb
+E:\OneDrive - Altrocks Tech Private Limited\E Drive\E-Invoice\Nov 08 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\x64\Debug\EInvoicing_Logitax_API.exe
+E:\OneDrive - Altrocks Tech Private Limited\E Drive\E-Invoice\Nov 08 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\x64\Debug\EInvoicing_Logitax_API.pdb
+E:\OneDrive - Altrocks Tech Private Limited\E Drive\E-Invoice\Nov 08 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\x64\Debug\Newtonsoft.Json.dll
+E:\OneDrive - Altrocks Tech Private Limited\E Drive\E-Invoice\Nov 08 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\x64\Debug\SAPBusinessOneSDK.dll
+E:\OneDrive - Altrocks Tech Private Limited\E Drive\E-Invoice\Nov 08 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\x64\Debug\EInvoicing_Logitax_API.csprojAssemblyReference.cache
+E:\OneDrive - Altrocks Tech Private Limited\E Drive\E-Invoice\Nov 08 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\x64\Debug\EInvoicing_Logitax_API.csproj.CoreCompileInputs.cache
+E:\OneDrive - Altrocks Tech Private Limited\E Drive\E-Invoice\Nov 08 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\x64\Debug\EInvoicing_Logitax_API.csproj.CopyComplete
+E:\OneDrive - Altrocks Tech Private Limited\E Drive\E-Invoice\Nov 08 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\x64\Debug\EInvoicing_Logitax_API.exe
+E:\OneDrive - Altrocks Tech Private Limited\E Drive\E-Invoice\Nov 08 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\x64\Debug\EInvoicing_Logitax_API.pdb
+C:\MIPL\Chitra\Nov 09 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\x64\Debug\EInvoicing_Logitax_API.exe
+C:\MIPL\Chitra\Nov 09 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\x64\Debug\EInvoicing_Logitax_API.pdb
+C:\MIPL\Chitra\Nov 09 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\x64\Debug\SAPBusinessOneSDK.dll
+C:\MIPL\Chitra\Nov 09 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\x64\Debug\EInvoicing_Logitax_API.csprojAssemblyReference.cache
+C:\MIPL\Chitra\Nov 09 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\x64\Debug\EInvoicing_Logitax_API.csproj.CoreCompileInputs.cache
+C:\MIPL\Chitra\Nov 09 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\x64\Debug\EInvoicing_Logitax_API.csproj.CopyComplete
+C:\MIPL\Chitra\Nov 09 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\x64\Debug\EInvoicing_Logitax_API.exe
+C:\MIPL\Chitra\Nov 09 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\x64\Debug\EInvoicing_Logitax_API.pdb
+E:\OneDrive - Altrocks Tech Private Limited\E Drive\E-Invoice\Nov 09 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\x64\Debug\EInvoicing_Logitax_API.exe
+E:\OneDrive - Altrocks Tech Private Limited\E Drive\E-Invoice\Nov 09 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\x64\Debug\EInvoicing_Logitax_API.pdb
+E:\OneDrive - Altrocks Tech Private Limited\E Drive\E-Invoice\Nov 09 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\x64\Debug\Newtonsoft.Json.dll
+E:\OneDrive - Altrocks Tech Private Limited\E Drive\E-Invoice\Nov 09 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\x64\Debug\SAPBusinessOneSDK.dll
+E:\OneDrive - Altrocks Tech Private Limited\E Drive\E-Invoice\Nov 09 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\x64\Debug\EInvoicing_Logitax_API.csprojAssemblyReference.cache
+E:\OneDrive - Altrocks Tech Private Limited\E Drive\E-Invoice\Nov 09 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\x64\Debug\EInvoicing_Logitax_API.csproj.CoreCompileInputs.cache
+E:\OneDrive - Altrocks Tech Private Limited\E Drive\E-Invoice\Nov 09 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\x64\Debug\EInvoicing_Logitax_API.csproj.CopyComplete
+E:\OneDrive - Altrocks Tech Private Limited\E Drive\E-Invoice\Nov 09 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\x64\Debug\EInvoicing_Logitax_API.exe
+E:\OneDrive - Altrocks Tech Private Limited\E Drive\E-Invoice\Nov 09 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\x64\Debug\EInvoicing_Logitax_API.pdb
+C:\MIPL\Chitra\Nov 11 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\x64\Debug\EInvoicing_Logitax_API.exe
+C:\MIPL\Chitra\Nov 11 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\x64\Debug\EInvoicing_Logitax_API.pdb
+C:\MIPL\Chitra\Nov 11 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\x64\Debug\SAPBusinessOneSDK.dll
+C:\MIPL\Chitra\Nov 11 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\x64\Debug\EInvoicing_Logitax_API.csproj.CoreCompileInputs.cache
+C:\MIPL\Chitra\Nov 11 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\x64\Debug\EInvoicing_Logitax_API.csproj.CopyComplete
+C:\MIPL\Chitra\Nov 11 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\x64\Debug\EInvoicing_Logitax_API.exe
+C:\MIPL\Chitra\Nov 11 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\x64\Debug\EInvoicing_Logitax_API.pdb
+E:\OneDrive - Altrocks Tech Private Limited\E Drive\E-Invoice\Nov 11 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\x64\Debug\EInvoicing_Logitax_API.exe
+E:\OneDrive - Altrocks Tech Private Limited\E Drive\E-Invoice\Nov 11 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\x64\Debug\EInvoicing_Logitax_API.pdb
+E:\OneDrive - Altrocks Tech Private Limited\E Drive\E-Invoice\Nov 11 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\x64\Debug\Newtonsoft.Json.dll
+E:\OneDrive - Altrocks Tech Private Limited\E Drive\E-Invoice\Nov 11 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\x64\Debug\SAPBusinessOneSDK.dll
+E:\OneDrive - Altrocks Tech Private Limited\E Drive\E-Invoice\Nov 11 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\x64\Debug\EInvoicing_Logitax_API.csprojAssemblyReference.cache
+E:\OneDrive - Altrocks Tech Private Limited\E Drive\E-Invoice\Nov 11 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\x64\Debug\EInvoicing_Logitax_API.csproj.CoreCompileInputs.cache
+E:\OneDrive - Altrocks Tech Private Limited\E Drive\E-Invoice\Nov 11 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\x64\Debug\EInvoicing_Logitax_API.csproj.CopyComplete
+E:\OneDrive - Altrocks Tech Private Limited\E Drive\E-Invoice\Nov 11 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\x64\Debug\EInvoicing_Logitax_API.exe
+E:\OneDrive - Altrocks Tech Private Limited\E Drive\E-Invoice\Nov 11 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\x64\Debug\EInvoicing_Logitax_API.pdb
+E:\OneDrive - Altrocks Tech Private Limited\E Drive\E-Invoice\Nov 11 2022_1 Header Disc\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\x64\Debug\EInvoicing_Logitax_API.exe
+E:\OneDrive - Altrocks Tech Private Limited\E Drive\E-Invoice\Nov 11 2022_1 Header Disc\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\x64\Debug\EInvoicing_Logitax_API.pdb
+E:\OneDrive - Altrocks Tech Private Limited\E Drive\E-Invoice\Nov 11 2022_1 Header Disc\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\x64\Debug\Newtonsoft.Json.dll
+E:\OneDrive - Altrocks Tech Private Limited\E Drive\E-Invoice\Nov 11 2022_1 Header Disc\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\x64\Debug\SAPBusinessOneSDK.dll
+E:\OneDrive - Altrocks Tech Private Limited\E Drive\E-Invoice\Nov 11 2022_1 Header Disc\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\x64\Debug\EInvoicing_Logitax_API.csproj.CoreCompileInputs.cache
+E:\OneDrive - Altrocks Tech Private Limited\E Drive\E-Invoice\Nov 11 2022_1 Header Disc\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\x64\Debug\EInvoicing_Logitax_API.csproj.CopyComplete
+E:\OneDrive - Altrocks Tech Private Limited\E Drive\E-Invoice\Nov 11 2022_1 Header Disc\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\x64\Debug\EInvoicing_Logitax_API.exe
+E:\OneDrive - Altrocks Tech Private Limited\E Drive\E-Invoice\Nov 11 2022_1 Header Disc\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\x64\Debug\EInvoicing_Logitax_API.pdb
+C:\MIPL\Chitra\Nov 14 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\x64\Debug\EInvoicing_Logitax_API.exe
+C:\MIPL\Chitra\Nov 14 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\x64\Debug\EInvoicing_Logitax_API.pdb
+C:\MIPL\Chitra\Nov 14 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\x64\Debug\SAPBusinessOneSDK.dll
+C:\MIPL\Chitra\Nov 14 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\x64\Debug\EInvoicing_Logitax_API.csproj.CoreCompileInputs.cache
+C:\MIPL\Chitra\Nov 14 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\x64\Debug\EInvoicing_Logitax_API.csproj.CopyComplete
+C:\MIPL\Chitra\Nov 14 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\x64\Debug\EInvoicing_Logitax_API.exe
+C:\MIPL\Chitra\Nov 14 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\x64\Debug\EInvoicing_Logitax_API.pdb
+C:\MIPL\Chitra\Nov 14 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\x64\Debug\EInvoicing_Logitax_API.csprojAssemblyReference.cache
+C:\MIPL\Chitra\Dec 21 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\x64\Debug\EInvoicing_Logitax_API.exe.config
+C:\MIPL\Chitra\Dec 21 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\x64\Debug\EInvoicing_Logitax_API.exe
+C:\MIPL\Chitra\Dec 21 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\x64\Debug\EInvoicing_Logitax_API.pdb
+C:\MIPL\Chitra\Dec 21 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\x64\Debug\EInvoicing_Logitax_API.csprojAssemblyReference.cache
+C:\MIPL\Chitra\Dec 21 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\x64\Debug\EInvoicing_Logitax_API.csproj.CoreCompileInputs.cache
+C:\MIPL\Chitra\Dec 21 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\x64\Debug\EInvoicing_Logitax_API.csproj.CopyComplete
+C:\MIPL\Chitra\Dec 21 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\x64\Debug\EInvoicing_Logitax_API.exe
+C:\MIPL\Chitra\Dec 21 2022\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\x64\Debug\EInvoicing_Logitax_API.pdb
+E:\OneDrive - Altrocks Tech Private Limited\E Drive\E-Invoice\Jan 09 2023\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\x64\Debug\EInvoicing_Logitax_API.exe.config
+E:\OneDrive - Altrocks Tech Private Limited\E Drive\E-Invoice\Jan 09 2023\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\x64\Debug\EInvoicing_Logitax_API.exe
+E:\OneDrive - Altrocks Tech Private Limited\E Drive\E-Invoice\Jan 09 2023\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\x64\Debug\EInvoicing_Logitax_API.pdb
+E:\OneDrive - Altrocks Tech Private Limited\E Drive\E-Invoice\Jan 09 2023\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\x64\Debug\Newtonsoft.Json.dll
+E:\OneDrive - Altrocks Tech Private Limited\E Drive\E-Invoice\Jan 09 2023\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\x64\Debug\SAPBusinessOneSDK.dll
+E:\OneDrive - Altrocks Tech Private Limited\E Drive\E-Invoice\Jan 09 2023\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\x64\Debug\EInvoicing_Logitax_API.csprojAssemblyReference.cache
+E:\OneDrive - Altrocks Tech Private Limited\E Drive\E-Invoice\Jan 09 2023\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\x64\Debug\EInvoicing_Logitax_API.csproj.CoreCompileInputs.cache
+E:\OneDrive - Altrocks Tech Private Limited\E Drive\E-Invoice\Jan 09 2023\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\x64\Debug\EInvoicing_Logitax_API.csproj.CopyComplete
+E:\OneDrive - Altrocks Tech Private Limited\E Drive\E-Invoice\Jan 09 2023\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\x64\Debug\EInvoicing_Logitax_API.exe
+E:\OneDrive - Altrocks Tech Private Limited\E Drive\E-Invoice\Jan 09 2023\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\x64\Debug\EInvoicing_Logitax_API.pdb
+C:\MIPL\Chitra\Jan 09 2023\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\x64\Debug\EInvoicing_Logitax_API.csprojAssemblyReference.cache
+C:\MIPL\Chitra\Jan 09 2023\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\x64\Debug\EInvoicing_Logitax_API.csproj.CoreCompileInputs.cache

@@ -1,0 +1,53 @@
+E:\OneDrive - Altrocks Tech Private Limited\E Drive\E-Invoice\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\Debug\EInvoicing_Logitax_API.csprojAssemblyReference.cache
+E:\OneDrive - Altrocks Tech Private Limited\E Drive\E-Invoice\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\Debug\EInvoicing_Logitax_API.csproj.CoreCompileInputs.cache
+E:\OneDrive - Altrocks Tech Private Limited\E Drive\E-Invoice\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\Debug\EInvoicing_Logitax_API.exe
+E:\OneDrive - Altrocks Tech Private Limited\E Drive\E-Invoice\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\Debug\EInvoicing_Logitax_API.pdb
+E:\OneDrive - Altrocks Tech Private Limited\E Drive\E-Invoice\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\Debug\SAPBusinessOneSDK.dll
+E:\OneDrive - Altrocks Tech Private Limited\E Drive\E-Invoice\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\Debug\EInvoicing_Logitax_API.csproj.CopyComplete
+E:\OneDrive - Altrocks Tech Private Limited\E Drive\E-Invoice\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\Debug\EInvoicing_Logitax_API.exe
+E:\OneDrive - Altrocks Tech Private Limited\E Drive\E-Invoice\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\Debug\EInvoicing_Logitax_API.pdb
+C:\MIPL\Chitra\Jan 09 2023\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\Debug\EInvoicing_Logitax_API.csproj.CoreCompileInputs.cache
+C:\MIPL\Chitra\27-01-2023\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\Debug\EInvoicing_Logitax_API.csproj.CoreCompileInputs.cache
+C:\MIPL\Chitra\27-01-2023\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\Debug\EInvoicing_Logitax_API.csproj.AssemblyReference.cache
+C:\MIPL\Chitra\27-01-2023\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\Debug\EInvoicing_Logitax_API.exe.config
+C:\MIPL\Chitra\27-01-2023\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\Debug\EInvoicing_Logitax_API.exe
+C:\MIPL\Chitra\27-01-2023\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\Debug\EInvoicing_Logitax_API.pdb
+C:\MIPL\Chitra\27-01-2023\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\Debug\Newtonsoft.Json.dll
+C:\MIPL\Chitra\27-01-2023\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\Debug\SAPBusinessOneSDK.dll
+C:\MIPL\Chitra\27-01-2023\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\Debug\Newtonsoft.Json.xml
+C:\MIPL\Chitra\27-01-2023\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\Debug\EInvoicing_Logitax_API.csproj.CopyComplete
+C:\MIPL\Chitra\27-01-2023\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\Debug\EInvoicing_Logitax_API.exe
+C:\MIPL\Chitra\27-01-2023\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\Debug\EInvoicing_Logitax_API.pdb
+C:\MIPL\HARI\Jan 27 2023\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\Debug\EInvoicing_Logitax_API.csprojAssemblyReference.cache
+C:\MIPL\HARI\Jan 27 2023\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\Debug\EInvoicing_Logitax_API.csproj.CoreCompileInputs.cache
+C:\MIPL\HARI\Jan 27 2023\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\Debug\EInvoicing_Logitax_API.exe
+C:\MIPL\HARI\Jan 27 2023\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\Debug\EInvoicing_Logitax_API.pdb
+C:\MIPL\HARI\Jan 27 2023\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\Debug\EInvoicing_Logitax_API.exe.config
+C:\MIPL\HARI\Jan 27 2023\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\Debug\EInvoicing_Logitax_API.exe
+C:\MIPL\HARI\Jan 27 2023\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\Debug\EInvoicing_Logitax_API.pdb
+C:\MIPL\HARI\Jan 27 2023\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\Debug\Newtonsoft.Json.dll
+C:\MIPL\HARI\Jan 27 2023\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\Debug\SAPBusinessOneSDK.dll
+C:\MIPL\HARI\Jan 27 2023\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\Debug\Newtonsoft.Json.xml
+C:\MIPL\HARI\Jan 27 2023\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\Debug\EInvoicing_Logitax_API.csproj.CopyComplete
+E:\Harindran\addon\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\Debug\EInvoicing_Logitax_API.exe.config
+E:\Harindran\addon\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\Debug\EInvoicing_Logitax_API.exe
+E:\Harindran\addon\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\Debug\EInvoicing_Logitax_API.pdb
+E:\Harindran\addon\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\Debug\Newtonsoft.Json.dll
+E:\Harindran\addon\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\Debug\SAPBusinessOneSDK.dll
+E:\Harindran\addon\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\Debug\Newtonsoft.Json.xml
+E:\Harindran\addon\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\Debug\EInvoicing_Logitax_API.csproj.CoreCompileInputs.cache
+E:\Harindran\addon\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\Debug\EInvoicing_Logitax_API.csproj.CopyComplete
+E:\Harindran\addon\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\Debug\EInvoicing_Logitax_API.exe
+E:\Harindran\addon\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\Debug\EInvoicing_Logitax_API.pdb
+E:\addon\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\Debug\EInvoicing_Logitax_API.exe.config
+E:\addon\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\Debug\EInvoicing_Logitax_API.exe
+E:\addon\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\Debug\EInvoicing_Logitax_API.pdb
+E:\addon\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\Debug\Newtonsoft.Json.dll
+E:\addon\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\Debug\SAPBusinessOneSDK.dll
+E:\addon\EInvoicing_Logitax_API\EInvoicing_Logitax_API\bin\Debug\Newtonsoft.Json.xml
+E:\addon\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\Debug\EInvoicing_Logitax_API.csprojAssemblyReference.cache
+E:\addon\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\Debug\EInvoicing_Logitax_API.csproj.CoreCompileInputs.cache
+E:\addon\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\Debug\EInvoicing_Logitax_API.csproj.CopyComplete
+E:\addon\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\Debug\EInvoicing_Logitax_API.exe
+E:\addon\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\Debug\EInvoicing_Logitax_API.pdb
+E:\Harindran\addon\EInvoicing_Logitax_API\EInvoicing_Logitax_API\obj\Debug\EInvoicing_Logitax_API.csprojAssemblyReference.cache
